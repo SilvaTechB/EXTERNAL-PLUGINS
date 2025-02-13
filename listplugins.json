@@ -1,0 +1,54 @@
+{
+  "plugins": [
+    {
+      "name": "NOTES",
+      "url": "https://gist.github.com/SilvaTechB/be1e9a46d8bdcb3626aa1dc19566966a",
+      "description": "Quickly save your thoughts or reminders. Easily retrieve, Manage your notes by removing outdated or unnecessary ones."
+    },
+    {
+      "name": "GET JIDS",
+      "url": "https://gist.github.com/SilvaTechB/afa490b4f7f99dde523c093675ee9a4c",
+      "description": "Fetches the Jabber ID (JID) of groups and members for easier identification and management."
+    },
+    {
+      "name": "R-C STICKER",
+      "url": "https://gist.github.com/SilvaTechB/5a8cfbb3392442d3a048f251682f7b3c",
+      "description": "Generate stylish rounded corner stickers from images with ease and share them instantly."
+    },
+    {
+      "name": "BUG PRANK",
+      "url": "https://gist.github.com/SilvaTechB/9684926b622e061f7b4f8442fa06b7b4",
+      "description": "A prank tool that simulates a hacking event, perfect for scaring your friends in a fun way."
+    },
+    {
+      "name": "LEAVE GROUP",
+      "url": "https://gist.github.com/SilvaTechB/709177d65966dd30ef95537685e2441f",
+      "description": "Quickly leave a group with a single command, ideal for situations where you no longer wish to stay."
+    },
+    {
+      "name": "MINIMAL GOOGLE",
+      "url": "https://gist.github.com/SilvaTechB/13b584dbeaa78e94ca5c22e9dfd25794",
+      "description": "A minimalistic interface for fast and efficient searches on Google, focusing on speed and simplicity."
+    },
+    {
+      "name": "FACTS",
+      "url": "https://gist.github.com/SilvaTechB/0b1e11ffd66d0c33dd8fec614611a413",
+      "description": "Delivers a random, interesting fact each time you trigger the command, making learning fun and engaging."
+    },
+    {
+      "name": "TELL ME",
+      "url": "https://gist.github.com/SilvaTechB/1152ba3dc4f6bc97381468185b41bdd0",
+      "description": "Asks random 'Why' questions, sparking thought-provoking conversations and curiosity."
+    },
+    {
+      "name": "SEARCH STICKERS",
+      "url": "https://gist.github.com/SilvaTechB/8e819ec42fe557723b9b5f249630a53e",
+      "description": "Search for stickers by your preferred search term, making it easier to find the perfect sticker for your chat."
+    },
+    {
+      "name": "TEDDY",
+      "url": "https://gist.github.com/SilvaTechB/c9834412b4cdada0df757ce234d9daf7",
+      "description": "Sends an adorable animated teddy bear to bring a smile to your face."
+    }
+  ]
+}
